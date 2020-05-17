@@ -10,8 +10,9 @@ A Python API using Flask.
 - python3 -m venv test1 <- this is your env name
 - source test1/bin/activate
 
-* To install the dependency required:
+* To install the dependencies required:
 - pip install flask
+- pip install flask-cors
 
 * To run, use:
 -python3 Api.py
